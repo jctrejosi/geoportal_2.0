@@ -1,0 +1,12 @@
+{
+  "title": "Geoportal SIMAC",
+  "language": "es",
+  "description": "Provides an enhanced geoportal for accessing and visualizing geographic and environmental data to support research and decision-making.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
